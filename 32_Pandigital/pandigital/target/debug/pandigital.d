@@ -1,1 +1,1 @@
-/Users/jscd/Projects/ProjectEuler/32_Pandigital/pandigital/target/debug/pandigital: /Users/jscd/Projects/ProjectEuler/32_Pandigital/pandigital/src/main.rs
+/home/jscd/Projects/ProjectEuler/32_Pandigital/pandigital/target/debug/pandigital: /home/jscd/Projects/ProjectEuler/32_Pandigital/pandigital/src/main.rs
